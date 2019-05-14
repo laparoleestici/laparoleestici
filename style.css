@@ -1,0 +1,26 @@
+body {
+	background-color: #fff8dc;
+}
+
+h1 {
+	text-align: left;
+	box-shadow: 28px green;
+
+}
+
+.p1 {
+	box-shadow: 10px violet;
+	border: 1px solid blue;
+	margin-right: 900px;
+	max-width: 600px;
+	box-shadow: 28px green;
+}
+.p2 {
+	box-shadow: 10px violet;
+	border: 10px solid blue;
+	margin-right: 900px;
+	display: inline-block;
+	float: right;
+	margin-top: 20px;
+}
+
